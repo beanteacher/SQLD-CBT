@@ -1,3 +1,3 @@
 # SQLD-CBT
 
-![](picture1.jpg)
+![](asset/image/picture1.png)
